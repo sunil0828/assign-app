@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport Page from \"../components/Page\";\nexport default function IndexPage() {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: \"index page\"\n  });\n}","map":null,"metadata":{},"sourceType":"module"}

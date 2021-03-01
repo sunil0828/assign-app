@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport UpdateUser from \"../components/UpdateUser\";\nexport default function UpdatePage({\n  query\n}) {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: /*#__PURE__*/_jsx(UpdateUser, {\n      id: query.id\n    })\n  });\n}","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport SingleUser from \"../components/SingleUser\";\nexport default function User({\n  query\n}) {\n  return /*#__PURE__*/_jsx(SingleUser, {\n    id: query.id\n  });\n}","map":null,"metadata":{},"sourceType":"module"}

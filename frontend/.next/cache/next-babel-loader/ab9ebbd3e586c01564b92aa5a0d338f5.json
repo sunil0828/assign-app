@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport Users from \"../components/Users\";\nexport default function PersonsPage() {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: /*#__PURE__*/_jsx(Users, {})\n  });\n}","map":null,"metadata":{},"sourceType":"module"}

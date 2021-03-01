@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/about": "pages/about.js",
+  "/addUser": "pages/addUser.js",
+  "/contact": "pages/contact.js",
+  "/": "pages/index.js",
+  "/profile": "pages/profile.js",
+  "/signin": "pages/signin.js",
+  "/signup": "pages/signup.js",
+  "/update": "pages/update.js",
+  "/user": "pages/user.js",
+  "/users": "pages/users.js",
+  "/_error": "pages/_error.js"
+}

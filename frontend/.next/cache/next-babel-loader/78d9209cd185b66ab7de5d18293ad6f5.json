@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport { jsxs as _jsxs } from \"react/jsx-runtime\";\nimport Header from \"./Header\";\nexport default function Page({\n  children,\n  cool\n}) {\n  return /*#__PURE__*/_jsxs(\"div\", {\n    children: [/*#__PURE__*/_jsx(Header, {}), children]\n  });\n}","map":null,"metadata":{},"sourceType":"module"}

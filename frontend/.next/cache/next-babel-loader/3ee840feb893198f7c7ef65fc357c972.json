@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport SignIn from \"../components/SignIn\";\nexport default function SininPage() {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: /*#__PURE__*/_jsx(SignIn, {})\n  });\n}","map":null,"metadata":{},"sourceType":"module"}
